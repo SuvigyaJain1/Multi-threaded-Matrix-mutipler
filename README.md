@@ -2,5 +2,5 @@
 C implementation for a matrix multiplication program using pthreads
 
 
-#Usage
+# Usage
 simply download the .c file and compile(with -lpthread flag in gcc) and run it. 
